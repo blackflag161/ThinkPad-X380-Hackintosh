@@ -21,5 +21,5 @@ Needs some work:
 
 Does not work
 
-* \- Intel WiFi (I use a USB dongle while waiting for an Intel driver or supported card).
+* Intel WiFi (I use a USB dongle while waiting for an Intel driver or supported card).
 
